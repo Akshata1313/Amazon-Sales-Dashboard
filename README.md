@@ -65,40 +65,27 @@ The Excel dashboard includes:
 ## 🔍 Key Business Insights
 
 ###  1. Regional Performance
-- **West Region** recorded the **highest total sales (₹31.18 lakh)** — indicating strong sales penetration and customer engagement.  
-- **North Region** followed closely (₹36.55 lakh), showing balanced sales distribution.  
+- **North Region** recorded the **highest total sales (₹36.55 lakh)** — indicating strong sales and customer engagement.  
+- **West Region** followed closely (₹31.18 lakh), showing balanced sales distribution.  
 - **East Region** contributed the least (₹16.71 lakh) — highlighting potential for sales expansion.
 
 ###  2. State-wise Sales
-- **Delhi (₹17.64 lakh)** is the top-performing state, followed by **Goa, Gujarat, and Maharashtra**.  
-- States like **Jharkhand, Jammu & Kashmir, and Uttarakhand** show relatively lower sales, suggesting market awareness or logistical challenges.
+- **Maharashtra (₹17.79 lakh)** is the top-performing state, followed by **Delhi, West Bengal, and Karnataka**.  
+- States like **Rajasthan, Jammu & Kashmir, and Telangana** show relatively lower sales, suggesting market awareness or logistical challenges.
 
 ###  3. City-wise Sales
 - **Delhi**, **Nainital**, and **Goa** are the **top 3 cities** driving sales.  
-- Patna, Ranchi, Trivandrum) have growth potential.
+- Patna, Ranchi, Trivandrum have growth potential.
+- Jodhpur, Surat, Bangalore contributed least sales.
 
 ###  4. Product-wise Performance
-- **Nestle Smarties Pop-Up** and **Nestle Aero Mint Potz** are top-selling products by units.  
-- Lower-performing SKUs like **Rowntree Screamer** indicate areas for marketing improvement.
+- **Nestle Smarties Pop-Up**,**Nestle Fab** and **Nestle Aero Mint Potz** are top-selling products by units.  
+- Lower-performing products like **Nestle Rowntree Screamer** indicate areas for marketing improvement.
   
 ### 📈 5. Overall KPI Achievement
-- **Sales Target:** 81% achieved — moderate performance, suggesting need for improved conversion rates.  
+- **Sales Target:** 81% achieved — suggesting need for improved conversion rates.  
 - **Units Sold:** 92% achieved — strong demand volume.  
 - **Cities Covered:** 82% achieved — good coverage but can improve reach.
-
----
-
-## 💡 Recommended Business Actions
-
-| Focus Area | Recommended Action |
-|-------------|--------------------|
-| **Low-performing States (Jharkhand, J&K)** | Conduct localized promotions and increase delivery partnerships |
-| **Top Cities (Delhi, Goa, Mumbai)** | Strengthen inventory and marketing in high-demand zones |
-| **Underperforming Products** | Review pricing or reposition marketing for low-demand SKUs |
-| **East Region** | Run targeted ad campaigns or introduce regional offers to boost visibility |
-| **City Coverage Expansion** | Onboard new distributors and logistics partners in uncovered Tier-2 cities |
-| **Target Achievement** | Set new quarterly goals based on past conversion trends |
-
 
 
 ⭐ **If you found this project insightful, please star this repo!**
